@@ -25,3 +25,6 @@ This Repo includes my Design works and its source files.
 ![alt tag](https://raw.githubusercontent.com/MonicaRaj/DesignWorks/master/Images/Nitara.jpg)
 ![alt tag](https://raw.githubusercontent.com/MonicaRaj/DesignWorks/master/Images/Photography1.jpg)
 ![alt tag](https://raw.githubusercontent.com/MonicaRaj/DesignWorks/master/Images/PhotographyEvent.jpg)
+
+#OTHER
+![alt tag](https://raw.githubusercontent.com/MonicaRaj/DesignWorks/master/Images/Digitrix Poster.jpg)
